@@ -4,7 +4,7 @@ Various projects exploring various AI and ML models/architectures
 # [1] Project 1: Using Medical MNIST to classify from six classes of various CT scans, as well as generating synthetic images for each class. 
 
 ## Problem statement: 
-The prupose of this project is to explore fundamental ML architecture and training concepts pertaining to CNNs and GANs, such as as image preprocessing and having a model for use of test/validation of other AI models before scaling. The use of Medical MNIST can also allow for beginners and researchers to understand the nuanaces of medical imaging.  
+The purpose of this project is to explore fundamental ML architecture and training concepts pertaining to CNNs and GANs, such as as image preprocessing and having a model for use of test/validation of other AI models before scaling. The use of Medical MNIST can also allow for beginners and researchers to understand the nuanaces of medical imaging.  
 
 
 ## Data: 
