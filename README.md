@@ -61,4 +61,15 @@ ________________________________________________________________________________
 
 # [2] Project 2: Develop a tool that summarizes long documents of AI used in society that also analyzes the emotions expressed in text 
 
-Use SpaCy and OpenAI GPT, then LangChain for making a question answering system (JAVA)
+Use SpaCy and OpenAI GPT (Python), then LangChain for making a question answering system (Java)
+
+# [3] Project 3: Develop a recommender algorithm for books 
+
+
+# Data: 
+
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset 
+
+# References: 
+https://github.com/erogluegemen/Movie-Recommendation-System
+https://github.com/bowbowbow/CollaborativeFiltering 
