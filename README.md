@@ -18,14 +18,14 @@ Libraries: Scikit-learn, Pandas, NumPy, Albumentations, and more.
 
 
 ## Approach: 
-Data Insight: Understand the dataset.
-Evaluation Metrics: Grasp the evaluation criteria.
-Architecture Understanding: Unet and Unet++ (for medical applications), DCGAN (for generating synthetic imagery)
-Environment Setup: Get your project environment ready.
-Data Augmentation: Enhance data for better performance.
-Model Building: Create the models with PyTorch.
-Model Training: Trained the model via a GPU 
-Model Prediction: Understand the modular code structure.
+- Data Insight: Understand the dataset.
+- Evaluation Metrics: Grasp the evaluation criteria.
+- Architecture Understanding: Unet and Unet++ (for medical applications), DCGAN (for generating synthetic imagery)
+- Environment Setup: Get your project environment ready.
+- Data Augmentation: Enhance data for better performance.
+- Model Building: Create the models with PyTorch.
+- Model Training: Trained the model via a GPU 
+- Model Prediction: Understand the modular code structure.
 
 ## Project Structure: 
 input: Contains data (PNG and TIFF folders).
