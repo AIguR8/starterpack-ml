@@ -7,14 +7,14 @@ Various projects exploring various AI and ML models/architectures
 
 
 ## Data: 
-Using Medical MNIST found on kaggle: https://www.kaggle.com/datasets/andrewmvd/medical-mnist/data 
-This dataset consists of 58954 medical images (medical scans of CT, MRI, and Xray) across six classes, with a focus on the body parts of abdomen, breast, chest, hand, head
+- Using Medical MNIST found on kaggle: https://www.kaggle.com/datasets/andrewmvd/medical-mnist/data 
+- This dataset consists of 58954 medical images (medical scans of CT, MRI, and Xray) across six classes, with a focus on the body parts of abdomen, breast, chest, hand, head
 
 ## Tech Stack: 
-Language: Python
-Deep Learning: PyTorch
-Computer Vision: OpenCV
-Libraries: Scikit-learn, Pandas, NumPy, Albumentations, and more.
+- Language: Python
+- Deep Learning: PyTorch
+- Computer Vision: OpenCV
+- Libraries: Scikit-learn, Pandas, NumPy, Albumentations, and more.
 
 
 ## Approach: 
@@ -28,11 +28,11 @@ Libraries: Scikit-learn, Pandas, NumPy, Albumentations, and more.
 - Model Prediction: Understand the modular code structure.
 
 ## Project Structure: 
-input: Contains data (PNG and TIFF folders).
-src: The heart of the project with modular code, including ML pipelines, engine, and config.
-output: Stores trained models and predictions.
-lib: Reference materials (original iPython notebook).
-requirements.txt: Lists all dependencies.
+- input: Contains data (PNG and TIFF folders).
+- src: The heart of the project with modular code, including ML pipelines, engine, and config.
+- output: Stores trained models and predictions.
+- lib: Reference materials (original iPython notebook).
+- requirements.txt: Lists all dependencies.
 
 
 ## Contact Information
