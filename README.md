@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 Use SpaCy and OpenAI GPT (Python), then LangChain for making a question answering system (Java)
 
-# [3] Project 3: Develop a recommender algorithm for books 
+# [3] Project 3: Develop a recommender algorithm for books (in C++)
 
 
 # Data: 
